@@ -2,6 +2,8 @@
 
 Wielowątkowa aplikacja webowa do łamania haseł w archiwach ZIP oraz krakowania skrótów (hash) za pomocą **brute-force**. Projekt realizowany w ramach zajęć z **inżynierii oprogramowania**.
 
+---
+
 ## Spis treści
 - [🔓 RustyCracker](#-rustycracker)
   - [Spis treści](#spis-treści)
@@ -9,6 +11,8 @@ Wielowątkowa aplikacja webowa do łamania haseł w archiwach ZIP oraz krakowani
   - [📁 Struktura Repozytorium](#-struktura-repozytorium)
   - [🗒️ Organizacja Pracy](#️-organizacja-pracy)
 
+
+---
 
 ## 🏢 Architektura Projektu
 
@@ -21,6 +25,8 @@ Aplikacja została zaprojektowana w architekturze monorepo. Dzieli się na dwa g
     - Za stylizację i responsywność odpowiada **Tailwind CSS**.
     - Raportowanie i wizualizacja danych realizowane przy użyciu **Recharts**.
 
+---
+
 ## 📁 Struktura Repozytorium
 
 ```
@@ -32,6 +38,8 @@ RustyCracker/
 ├── .gitignore
 └── README.md
 ```
+
+---
 
 ## 🗒️ Organizacja Pracy
 - Projekt zarządzany jest przy użyciu tablicy **Github Projects (Kanban)**. Nazwa Repozytorium jest dokładnie taka sama, jak nazwa projektu w Github Projects.
