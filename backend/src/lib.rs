@@ -1,4 +1,5 @@
 pub mod adapters;
+pub mod domain;
 
 use axum::Router;
 
